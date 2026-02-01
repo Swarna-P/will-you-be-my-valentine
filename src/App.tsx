@@ -11,11 +11,11 @@ export default function Page() {
  const phrases = [
   "No 🙈",
   "Are you sureee? 🥺",
-  "What if Tapadipa asks really nicely? 💕",
+  "What if Swarna asks really nicely? 💕",
   "Pretty pleaseee 🌸",
   "With extra love on top 💖",
-  "What about a chocolate just for you, Swarna? 🍫",
-  "Swarnaaa please 🥹",
+  "What about a chocolate just for you, Prateek? 🍫",
+  "Prateekaa please 🥹",
   "I’ll be very very sad 😔",
   "Look at my puppy eyes 🐶👉👈",
   "Okay now I’m pouting 😗",
@@ -24,8 +24,8 @@ export default function Page() {
   "Please babeee 💞",
   "You’re too cute to say no 😘",
   "I promise lots of hugs 🤗",
-  "Okay… last try from Tapadipa 😅💗",
-  "✨ Now you CAN’T say No to me, Swarna! 💖🥰",
+  "Okay… last try from Swarna 😅💗",
+  "✨ Now you CAN’T say No to me, Prateek! 💖🥰",
 ];
 
   const handleNoClick = () => {
@@ -57,9 +57,9 @@ export default function Page() {
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
           <div className="my-4 text-4xl font-bold text-pink-400 text-center">
-          🎉 YAYYYY!!! I ❤️ YOU, Swarna!! 🎀
+          🎉 YAYYYY!!! I ❤️ YOU, Prateek!! 🎀
           <br />
-          Tapadipa is floating on cloud nine ☁️💞
+          Swarna is floating on cloud nine ☁️💞
         </div>
 
         </>
@@ -70,7 +70,7 @@ export default function Page() {
             src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
           />
           <h1 className="my-4 text-4xl text-center text-pink-400 font-bold animate-pulse">
-            💞 Swarna… will you be my Valentine? 🥰
+            💞 Prateek… will you be my Valentine? 🥰
           </h1>
 
           <div className="flex items-center relative">
